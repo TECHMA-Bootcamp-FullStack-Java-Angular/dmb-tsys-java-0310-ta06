@@ -1,8 +1,8 @@
-###task list
+# Task list
 
 - [x] Ejercicios
-    - [x] 1
-    - [x] 2
+    - [x] 1 
+    - [x] 2 
     - [x] 3
     - [x] 4
     - [x] 5
@@ -14,14 +14,15 @@
     - [x] 11
     - [x] 12
 
-- [ ] Enlaces Lessons.js 
-- [ ] Dia Lessons.js 
-- [ ] Frase Lessons.js 
-- [ ] Enunciados Lessons.js 
-
+- [x] Crear Repositorio Git y GutHub
+- [x] Subir a GitHub
+- [ ] Apuntar enlaces de los ejerccios en Lessons.js 
+- [ ] Cambiar dia Lessons.js 
+- [ ] Cambiar Frase Lessons.js 
+- [ ] Pasar los enunciados de las tareas a Lessons.js 
 - [ ] Chequeo Lessons.js 
-- [ ] GitHubPages 
+- [ ] Crear GitHubPages 
 
-- [ ] README
+- [ ] Cambiar README
 - [ ] Chequo final
-- [ ] Enviar a Jose
+- [ ] Enviar a Jose 🫰
