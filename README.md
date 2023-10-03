@@ -16,13 +16,13 @@
 
 - [x] Crear Repositorio Git y GutHub
 - [x] Subir a GitHub
-- [ ] Apuntar enlaces de los ejerccios en Lessons.js 
+- [X] Apuntar enlaces de los ejerccios en Lessons.js 
 - [ ] Cambiar dia Lessons.js 
 - [ ] Cambiar Frase Lessons.js 
-- [ ] Pasar los enunciados de las tareas a Lessons.js 
-- [ ] Chequeo Lessons.js 
+- [X] Pasar los enunciados de las tareas a Lessons.js 
+- [X] Chequeo Lessons.js 
 - [ ] Crear GitHubPages 
 
 - [ ] Cambiar README
-- [ ] Chequo final
+- [ ] Chequeo 1a1
 - [ ] Enviar a Jose 🫰
