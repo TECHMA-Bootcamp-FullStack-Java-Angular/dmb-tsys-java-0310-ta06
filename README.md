@@ -1,28 +1,11 @@
-# Task list
+<div align="center"><img width="80%"  src="https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-2909-ta03a/blob/main/utils/BootCamp-reduced.gif?raw=true"  alt="Logo BootCamp" /></div>
+<hr>
 
-- [x] Ejercicios
-    - [x] 1 
-    - [x] 2 
-    - [x] 3
-    - [x] 4
-    - [x] 5
-    - [x] 6
-    - [x] 7
-    - [x] 8
-    - [x] 9
-    - [x] 10
-    - [x] 11
-    - [x] 12
+![My etiqueta](https://img.shields.io/badge/David%20Maza-DiveCode%F0%9F%90%99-blue) ![UD](https://img.shields.io/badge/TA-5-orange)  ![Java Version](https://img.shields.io/badge/java-v8-red)
 
-- [x] Crear Repositorio Git y GutHub
-- [x] Subir a GitHub
-- [X] Apuntar enlaces de los ejerccios en Lessons.js 
-- [ ] Cambiar dia Lessons.js 
-- [ ] Cambiar Frase Lessons.js 
-- [X] Pasar los enunciados de las tareas a Lessons.js 
-- [X] Chequeo Lessons.js 
-- [ ] Crear GitHubPages 
+Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
-- [ ] Cambiar README
-- [ ] Chequeo 1a1
-- [ ] Enviar a Jose 🫰
+
+Ahora ya puedes acceder a cada uno de los ejercicios, con su enunciado haciendo clic en el siguiente enlaces:
+
+- [UNIDAD C2](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-java-0210-ta06/)
