@@ -11,7 +11,7 @@ no se pueda dividir mas, el resto que obtengamos de cada división formara el num
 binario, de abajo a arriba.*/
 
 public class Main_EJ05 {
-	
+
 	public static void main(String[] args) {
 
 		JFrame frame = new JFrame();
@@ -19,7 +19,7 @@ public class Main_EJ05 {
 				JOptionPane.QUESTION_MESSAGE);
 
 		if (dato != null) {
-	
+
 			int decimal = Integer.parseInt(dato);
 
 			String binary = decimalToBinary(decimal);

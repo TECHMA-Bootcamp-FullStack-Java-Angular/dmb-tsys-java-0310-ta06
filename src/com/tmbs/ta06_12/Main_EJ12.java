@@ -10,14 +10,14 @@ estos deben guardarse en un nuevo array.
 Por ejemplo, en un array de 10 posiciones le indicamos mostrar los números acabados en 5,
 podría salir 155, 25, etc.*/
 public class Main_EJ12 {
-	
+
 	public static void main(String[] args) {
 
 		int l = 0;
 
 		// Pide longitud del array al usuario y comprueba que sea correcta
 		try {
-			
+
 			do {
 				String lstring = JOptionPane.showInputDialog("Introduce la longitud del array a generar");
 				l = Integer.parseInt(lstring);
@@ -28,8 +28,7 @@ public class Main_EJ12 {
 				}
 
 			} while (l < 1);
-			
-			
+
 			// Crea el array con la longitud especificada
 			int[] array = new int[l];
 
@@ -38,12 +37,10 @@ public class Main_EJ12 {
 
 			// Muestra los numeros con numero final especificado
 			showArray(array);
-			
-			
+
 		} catch (Exception e) {
 			System.out.println("El dato introducico no es correcto");
 		}
-		
 
 	}
 
@@ -59,8 +56,7 @@ public class Main_EJ12 {
 		return array;
 	}
 
-	// Funcion para mostrar contenidos del array finalizados en el numero
-	// determinado
+	// Funcion para mostrar contenidos del array finalizados en el numero determinado
 	public static void showArray(int[] array) {
 
 		int num = 10;
@@ -70,7 +66,7 @@ public class Main_EJ12 {
 			if (num > 9 || num < 0) {
 				JOptionPane.showMessageDialog(null, "Error, el numero tiene que ser entre 0 y 9");
 			}
-			
+
 		} while (num > 9 || num < 0);
 
 		System.out.println("Estos son los numeros generados que terminan en " + num);
@@ -81,6 +77,5 @@ public class Main_EJ12 {
 			}
 		}
 	}
-
 
 }
