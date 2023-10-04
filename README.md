@@ -9,4 +9,4 @@ Este repositorio contiene las tareas del Bootcamp 👨‍💻
 
 Ahora ya puedes acceder a cada uno de los ejercicios, con su enunciado haciendo clic en el siguiente enlaces:
 
-- [UNIDAD C2-T6](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-java-0210-ta06/)
+- [UNIDAD C2-T6](https://techma-bootcamp-fullstack-java-angular.github.io/dmb-tsys-java-0310-ta06/)
